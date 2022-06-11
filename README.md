@@ -1,7 +1,10 @@
 - 👋 Hi, I’m Federico Turco
-- 👀 I’m interested in C#/WPF, Python and Embedded Systems in general. 
+- 👀 I work with C#/WPF, Python and Embedded Systems in general. 
+- 👀 I'm very interested in Domotic, I'm KNX Partner n.: 93370 with ETS5 Professional Licence
+- 👀 I also like PLC Programming, with TC3 Beckhoff family mainly
+<!--- - 📫 Contacts: --->
 
-On my repository i published some clients helpful to debug and simulate Modbus Master/Slaves devices.
+On my repository i published some clients helpful to debug and simulate ModBus Master/Slaves devices.
 
 ## ModBus Client
 This is a WPF client uset to poll ModBus slaves, it's helpful to debug slaves where there are many resources on different locations because it permits to bind labels and conversion (int32,float,string etc.) to different memory locations according to the ModBus protocol Reference.\
