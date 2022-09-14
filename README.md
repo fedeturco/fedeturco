@@ -24,7 +24,7 @@ https://github.com/Fedex1515/Gw_Modbus_C
 
 ## NetManager
 This is a client used to switch ip-adddress configuration of network interfaces on a Windows PC, you can create different profile of ip classes and switch from one to another simply using the client instead of looking for the current form in the panel settings.\
-[https://github.com/Fedex1515/Gw_Modbus_C](https://github.com/Fedex1515/NetManager)
+[https://github.com/Fedex1515/NetManager](https://github.com/Fedex1515/NetManager)
 
 <!--- - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
