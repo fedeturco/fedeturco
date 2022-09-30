@@ -23,7 +23,7 @@ The GW Modbus is a C application i developed to share ModBus resourced behind a 
 https://github.com/Fedex1515/Gw_Modbus_C
 
 ## Client PING
-C#/WPF client useful to keep track of network devices in your LAN
+C#/WPF client useful to keep track of network devices in your LAN\
 https://github.com/Fedex1515/Client_PING
 
 ## NetManager
