@@ -22,14 +22,18 @@ https://github.com/Fedex1515/ModBusServerConfigurator
 The GW Modbus is a C application i developed to share ModBus resourced behind a RS485 via TCP. With this on an embedded linux system equipped with an RS485 serial port (tty) you can share slaves on the 485 side and make them available using your embedded linux system (for example a Raspberry Pi3 with an USB485 converter) as a TCP server.\
 https://github.com/Fedex1515/Gw_Modbus_C
 
+## Client PING
+C#/WPF client useful to keep track of network devices in your LAN
+https://github.com/Fedex1515/Client_PING
+
 ## NetManager
 This is a client used to switch ip-adddress configuration of network interfaces on a Windows PC, you can create different profile of ip classes and switch from one to another simply using the client instead of looking for the current form in the panel settings.\
 [https://github.com/Fedex1515/NetManager](https://github.com/Fedex1515/NetManager)
 
+
 <!--- - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
-
 <!---
 Fedex1515/Fedex1515 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
