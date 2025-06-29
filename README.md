@@ -10,7 +10,7 @@ On my repository i published some clients helpful to debug and simulate ModBus M
 
 ## ModBus Client
 This is a WPF client uset to poll ModBus slaves, it's helpful to debug slaves where there are many resources on different locations because it permits to bind labels and conversion (int32,float,string etc.) to different memory locations according to the ModBus protocol Reference.\
-https://github.com/Fedex1515/ModBus_Client
+https://github.com/fedeturco/ModBus_Client
 
 ## ModBus Server Simulator
 This is an appplication i developed to emulate multiple slvaes modbus, for example if you need to emulate a set of n power meters, or multiple ModBus sensors. In the App you can create different profiles and assign them to different heads which run on different processes. The App can be used standalone on a Windows Machine or you can use it as client to configure a Raspberry PI as a Mosbus Slave Simulator. The Raspberry result very handy if you need to test your ModBus Master application for many days leaving the Raspberry connected to your PLC Master (often happens that the customer provides me a single modbus slave to read and implement on the back development side but i need many ones to test the embedded system on the final configuration).\
