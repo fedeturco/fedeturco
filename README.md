@@ -14,7 +14,7 @@ https://github.com/fedeturco/ModBus_Client
 
 ## ModBus Server Simulator
 This is an appplication i developed to emulate multiple slvaes modbus, for example if you need to emulate a set of n power meters, or multiple ModBus sensors. In the App you can create different profiles and assign them to different heads which run on different processes. The App can be used standalone on a Windows Machine or you can use it as client to configure a Raspberry PI as a Mosbus Slave Simulator. The Raspberry result very handy if you need to test your ModBus Master application for many days leaving the Raspberry connected to your PLC Master (often happens that the customer provides me a single modbus slave to read and implement on the back development side but i need many ones to test the embedded system on the final configuration).\
-https://github.com/Fedex1515/ModBusServerConfigurator
+https://github.com/fedeturco/ModBusServerConfigurator
 
 ## Client PING
 C#/WPF client useful to keep track of network devices in your LAN\
