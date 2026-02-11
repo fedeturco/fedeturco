@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Federico Turco
 - 👀 I work with C#/WPF, Python and Embedded Systems based on Yocto Project
-- 👀 I'm very interested in Domotic, I'm KNX Tutor with Partner n.: 93370 with ETS6 Professional Licence
+- 👀 I'm very interested in Domotic, I'm KNX Tutor with Partner n.: 93370 and ETS6 Professional Licence
 - 👀 I also like PLC Programming, with TC3 Beckhoff family mainly
 <!--- - 📫 Contacts: --->
 
